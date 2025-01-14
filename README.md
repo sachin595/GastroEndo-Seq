@@ -114,8 +114,8 @@ Progression stages were simulated using embeddings derived from the Vision Trans
    - Performance: **36.77%** accuracy.
 
 3. **ResNet-50**
-  -	Pretrained CNN model with skip connections for deeper feature extraction.
-  -	Performance: **32.42%** accuracy.
+     -	Pretrained CNN model with skip connections for deeper feature extraction.
+     -	Performance: **32.42%** accuracy.
 
 4. **Custom CNN**
    - Lightweight architecture with convolutional and fully connected layers.
