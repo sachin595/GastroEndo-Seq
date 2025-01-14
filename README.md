@@ -1,5 +1,5 @@
 # GastroEndo-Seq
-GastroEndo-Seq: Predictive Sequential Model for GI Disease Progression and Outcome Forecasting
+GastroEndo-Seq: Predictive Sequential Model for GastroIntestinal Disease Progression and Outcome Forecasting
 
 ![Research Medical AI](https://img.shields.io/badge/Research-Medical%20AI-green.svg)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
