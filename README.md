@@ -7,6 +7,7 @@ GastroEndo-Seq: Predictive Sequential Model for GastroIntestinal Disease Progres
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Vision Transformer](https://img.shields.io/badge/Model-ViT-green.svg)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red.svg)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange.svg)
 ![Few-Shot Learning](https://img.shields.io/badge/Technique-Few--Shot%20Learning-blue.svg)
 ![Score-CAM](https://img.shields.io/badge/Visualization-Score--CAM-orange.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
